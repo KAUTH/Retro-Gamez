@@ -1,0 +1,24 @@
+{
+
+  "manifest_version": 2,
+  "name": "Greek Name Days",
+  "version": "1.0",
+
+  "description": "Shows whose name day it is for the following three days.",
+  "homepage_url": "https://github.com/KAUTH/Greek-Name-Days",
+
+  "icons": {
+    "48": "icons/logo-48.png",
+	"96": "icons/logo-96.png"
+  },
+  
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_popup": "popup/name_day.html"
+  }
+
+
+}
