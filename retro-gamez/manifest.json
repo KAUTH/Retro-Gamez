@@ -1,15 +1,14 @@
 {
 
-  "manifest_version": 2,
-  "name": "Greek Name Days",
+  "manifest_version": 1,
+  "name": "Retro Gamez",
   "version": "1.0",
 
-  "description": "Shows whose name day it is for the following three days.",
-  "homepage_url": "https://github.com/KAUTH/Greek-Name-Days",
+  "description": "Firefox extension where you can play a different retro game each day from the website https://www.retrogames.cc.",
+  "homepage_url": "https://github.com/KAUTH/Retro-Gamez/",
 
   "icons": {
-    "48": "icons/logo-48.png",
-	"96": "icons/logo-96.png"
+    "48": "icons/logo-48.png"
   },
   
   "permissions": [
@@ -17,7 +16,7 @@
   ],
 
   "browser_action": {
-    "default_popup": "popup/name_day.html"
+    "default_popup": "popup/retrogamez.html"
   }
 
 
