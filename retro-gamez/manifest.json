@@ -5,10 +5,11 @@
   "version": "1.0",
 
   "description": "Firefox extension where you can play a different retro game each day from the website https://www.retrogames.cc.",
-  "homepage_url": "https://github.com/KAUTH/Retro-Gamez/",
+  "homepage_url": "https://github.com/KAUTH/Retro-Gamez",
 
   "icons": {
-    "48": "icons/logo-48.png"
+    "48": "icons/logo-48.png",
+    "96": "icons/logo-96.png"
   },
   
   "permissions": [
@@ -16,8 +17,7 @@
   ],
 
   "browser_action": {
-    "default_popup": "popup/retrogamez.html"
+    "default_popup": "popup/retro_gamez.html"
   }
-
 
 }
