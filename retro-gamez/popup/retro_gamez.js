@@ -9,7 +9,7 @@ function dayOfYear() {
 	var oneDay = 1000 * 60 * 60 * 24;
 	var day = Math.floor(diff / oneDay);
 	
-	return day
+	return day;
 }
 
 // An array of objects containing the available games
