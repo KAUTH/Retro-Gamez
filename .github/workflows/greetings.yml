@@ -7,9 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Set current month as env variable
-      run: echo "::set-env name=MONTH::$(date '+%b')"
+      id: month
+      run: echo "::set-output name=month::$(date '+%b')"
     - uses: actions/first-interaction@v1
-      if: $MONTH != 'Oct'
+      if: steps.month.outputs.month != 'Oct'
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         pr-message: 'Thank you for contributing to this project! 😊🕹️'
