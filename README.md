@@ -1,3 +1,4 @@
+![Linter](https://github.com/KAUTH/Retro-Gamez/workflows/Linter/badge.svg)
 ![Greetings](https://github.com/KAUTH/Retro-Gamez/workflows/Greetings/badge.svg)
 
 # Retro-Gamez 🕹️
