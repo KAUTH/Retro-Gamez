@@ -7,6 +7,8 @@ Firefox extension where you can play a different retro game each day from the we
 
 ## Contributing
 
+* Happy Hacktoberfest, check out [HACKTOBERFEST-CONTRIBUTING.md](https://github.com/KAUTH/Retro-Gamez/blob/master/HACKTOBERFEST-CONTRIBUTING.md) to contribute! 🎃
+
 * You can always submit a PR if you want to suggest improvements or fix issues.
 
 * Check out the open issues at https://github.com/KAUTH/Retro-Gamez/issues.
