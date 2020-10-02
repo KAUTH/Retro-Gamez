@@ -118,6 +118,11 @@ var gameList = [
 		"id": 24,
 		"title": "Sonic the Hedgehog (USA, Europe) [Hack by LOst v1.0] (Sonic Jam's Easy Mode)",
 		"src": "https://www.retrogames.cc/embed/28249-sonic-the-hedgehog-usa-europe-hack-by-lost-v1-0-sonic-jam-s-easy-mode.html"
+	},
+	{
+		"id": 25,
+		"title": "007: The World Is Not Enough",
+		"src": "https://www.retrogames.cc/embed/41522-007-the-world-is-not-enough.html"
 	}
 
 	
