@@ -123,6 +123,11 @@ var gameList = [
 		"id": 25,
 		"title": "007: The World Is Not Enough",
 		"src": "https://www.retrogames.cc/embed/41522-007-the-world-is-not-enough.html"
+	},
+	{
+		"id": 28,
+		"title": "Ace Combat",
+		"src": "https://www.retrogames.cc/embed/41524-ace-combat.html"
 	}
 
 	
