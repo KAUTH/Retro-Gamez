@@ -132,7 +132,12 @@ var gameList = [{
 		"id": 27,
 		"title": "A-Train - Trains, Power, Money",
 		"src": "https://www.retrogames.cc/embed/40096-a-train-trains-power-money.html"
-	}
-	
+        },
+        {
+		"id": 28,
+		"title": "Ace Combat",
+		"src": "https://www.retrogames.cc/embed/41524-ace-combat.html"
+        }
+
 
 ]
