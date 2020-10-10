@@ -1,5 +1,4 @@
-var gameList = [
-	{
+var gameList = [{
 		"id": 1,
 		"title": "Super Mario World (USA)",
 		"src": "https://www.retrogames.cc/embed/16847-super-mario-world-usa.html"
@@ -123,7 +122,10 @@ var gameList = [
 		"id": 25,
 		"title": "007: The World Is Not Enough",
 		"src": "https://www.retrogames.cc/embed/41522-007-the-world-is-not-enough.html"
+	},
+	{
+		"id": 26,
+		"title": "A Bug's Life",
+		"src": "https://www.retrogames.cc/embed/41523-a-bugs-life.html"
 	}
-
-	
 ]
