@@ -127,5 +127,12 @@ var gameList = [{
 		"id": 26,
 		"title": "A Bug's Life",
 		"src": "https://www.retrogames.cc/embed/41523-a-bugs-life.html"
+	},
+        {
+		"id": 27,
+		"title": "A-Train - Trains, Power, Money",
+		"src": "https://www.retrogames.cc/embed/40096-a-train-trains-power-money.html"
 	}
+	
+
 ]
