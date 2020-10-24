@@ -152,6 +152,11 @@ var gameList = [{
 		"id": 31,
 		"title": "Alone in the Dark - One Eyed Jack's Revenge",
 		"src": "https://www.retrogames.cc/embed/41540-alone-in-the-dark-one-eyed-jacks-revenge.html"
+        },
+        {
+		"id": 32,
+		"title": "Rayman",
+		"src": "https://www.retrogames.cc/embed/40795-rayman.html"
         }
 
 
