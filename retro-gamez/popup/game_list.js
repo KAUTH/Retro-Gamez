@@ -147,6 +147,11 @@ var gameList = [{
 		"id": 30,
 		"title": "Alien Trilogy",
 		"src": "https://www.retrogames.cc/embed/40791-alien-trilogy.html"
+        },
+        {
+		"id": 31,
+		"title": "Alone in the Dark - One Eyed Jack's Revenge",
+		"src": "https://www.retrogames.cc/embed/41540-alone-in-the-dark-one-eyed-jacks-revenge.html"
         }
 
 
