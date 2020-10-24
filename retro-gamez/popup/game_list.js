@@ -142,6 +142,11 @@ var gameList = [{
 		"id": 29,
 		"title": "Actua Soccer",
 		"src": "https://www.retrogames.cc/embed/41529-actua-soccer.html"
+        },
+        {
+		"id": 30,
+		"title": "Alien Trilogy",
+		"src": "https://www.retrogames.cc/embed/40791-alien-trilogy.html"
         }
 
 
