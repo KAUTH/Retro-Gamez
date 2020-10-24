@@ -1,5 +1,6 @@
 ![Linter](https://github.com/KAUTH/Retro-Gamez/workflows/Linter/badge.svg)
 ![Greetings](https://github.com/KAUTH/Retro-Gamez/workflows/Greetings/badge.svg)
+[![GitHub license](https://img.shields.io/github/license/KAUTH/Retro-Gamez)](https://github.com/KAUTH/Retro-Gamez/blob/master/LICENSE)
 
 # Retro-Gamez 🕹️
 
