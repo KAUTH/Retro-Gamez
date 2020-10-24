@@ -137,6 +137,11 @@ var gameList = [{
 		"id": 28,
 		"title": "Ace Combat",
 		"src": "https://www.retrogames.cc/embed/41524-ace-combat.html"
+        },
+        {
+		"id": 29,
+		"title": "Actua Soccer",
+		"src": "https://www.retrogames.cc/embed/41529-actua-soccer.html"
         }
 
 
