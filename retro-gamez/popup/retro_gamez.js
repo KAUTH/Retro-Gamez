@@ -14,7 +14,7 @@ function dayOfYear() {
 
 async function main() {
 	// Getting the array of objects containing the available games from a local JS file, stored in the gameList variable
-	const response = await fetch('https://raw.githubusercontent.com/paulopacitti/Retro-Gamez/master/retro-gamez/popup/game_list.json');
+	const response = await fetch('https://raw.githubusercontent.com/KAUTH/Retro-Gamez/master/retro-gamez/popup/game_list.json');
 	const games = await response.json();
 	const totalGames = Object.keys(games).length;
 
