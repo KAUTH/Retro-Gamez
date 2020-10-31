@@ -1,4 +1,5 @@
-var gameList = [{
+[
+	{
 		"id": 1,
 		"title": "Super Mario World (USA)",
 		"src": "https://www.retrogames.cc/embed/16847-super-mario-world-usa.html"
@@ -128,46 +129,44 @@ var gameList = [{
 		"title": "A Bug's Life",
 		"src": "https://www.retrogames.cc/embed/41523-a-bugs-life.html"
 	},
-        {
+	{
 		"id": 27,
 		"title": "A-Train - Trains, Power, Money",
 		"src": "https://www.retrogames.cc/embed/40096-a-train-trains-power-money.html"
-        },
-        {
+	},
+	{
 		"id": 28,
 		"title": "Ace Combat",
 		"src": "https://www.retrogames.cc/embed/41524-ace-combat.html"
-        },
-        {
+	},
+	{
 		"id": 29,
 		"title": "Actua Soccer",
 		"src": "https://www.retrogames.cc/embed/41529-actua-soccer.html"
-        },
-        {
+	},
+	{
 		"id": 30,
 		"title": "Alien Trilogy",
 		"src": "https://www.retrogames.cc/embed/40791-alien-trilogy.html"
-        },
-        {
+	},
+	{
 		"id": 31,
 		"title": "Alone in the Dark - One Eyed Jack's Revenge",
 		"src": "https://www.retrogames.cc/embed/41540-alone-in-the-dark-one-eyed-jacks-revenge.html"
-        },
-        {
+	},
+	{
 		"id": 32,
 		"title": "Rayman",
 		"src": "https://www.retrogames.cc/embed/40795-rayman.html"
-        },
-        {
+	},
+	{
 		"id": 33,
 		"title": "Chicken Run",
 		"src": "https://www.retrogames.cc/embed/41653-chicken-run.html"
-        },
-        {
+	},
+	{
 		"id": 34,
 		"title": "Civilization II",
 		"src": "https://www.retrogames.cc/embed/41663-civilization-ii.html"
-        }
-
-
+	}
 ]
