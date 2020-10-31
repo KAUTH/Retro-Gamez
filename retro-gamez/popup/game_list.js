@@ -162,6 +162,11 @@ var gameList = [{
 		"id": 33,
 		"title": "Chicken Run",
 		"src": "https://www.retrogames.cc/embed/41653-chicken-run.html"
+        },
+        {
+		"id": 34,
+		"title": "Civilization II",
+		"src": "https://www.retrogames.cc/embed/41663-civilization-ii.html"
         }
 
 
